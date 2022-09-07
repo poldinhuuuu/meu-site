@@ -1,22 +1,54 @@
+body {
 
+	font-family: Arial;
+}
 
+.bg{
+	background-image: url(fundo.gif);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
 
+.img3{
+	text-align: center;
+
+}
+#img4{
+	width: 75%;
+}
+.img4{
+	text-align: center;
+}
+.itens {
+	font-size: normal;
+}
 
 #texto{
     font-size: 25px;
 
 }
-
 #img1 {
-
-	width:  100%;
-
+    width: 92%;
 
 }
-
+.img1{
+	text-align: center;
+}
 .img2 {
 	text-align: center;
 
-	width: 80%
-
+}
+ 
+.img5{
+	text-align: center;
+}
+.img6{
+	text-align: center;
+}
+#img7{
+	width: 100%;
+}
+.img8{
+	text-align: center;
 }
